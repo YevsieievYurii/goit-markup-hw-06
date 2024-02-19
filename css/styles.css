@@ -41,6 +41,7 @@ margin: 0 auto;
 .header-container {
 display: flex;
 /* justify-content: center; */
+justify-content: space-between;
 }
 
 img {
@@ -991,10 +992,8 @@ margin-bottom: 24px;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: baseline;
-    /* justify-content: center; */
     gap: 72px 24px;
-    /* padding-left: 92px;
-    padding-right: 92px; */
+
 }
 
 .footer-form {
@@ -1021,10 +1020,6 @@ margin-bottom: 24px;
 
 .footer-input {
     width: 264px;
-}
-
-.send-btn {
-    margin-left: 0;
 }
 
 }
