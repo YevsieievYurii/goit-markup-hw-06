@@ -157,19 +157,19 @@ img {
 }
 
 .current {
-    /* position: relative; */
+    position: relative;
     color: #404BBF;
 }
 
 .current::after {
     content: "";
-    /* position: absolute;
+    position: absolute;
     left: 0;
     bottom: -1px;
     background-color: #404BBF;
     border-radius: 2px;
     width: 100%;
-    height: 4px; */
+    height: 4px;
 }
 
 .icon-list-mob {
