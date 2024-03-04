@@ -211,7 +211,7 @@ color: #2E2F42;
 display: none;
 }
 
-.open-manu-btn {
+.open-menu-btn {
     padding: 0;
     line-height: 0;
     background-color: transparent;
@@ -993,6 +993,10 @@ margin-bottom: 24px;
     }
 
     .mob-manu {
+        display: none;
+    }
+
+    .open-menu-btn {
         display: none;
     }
 
