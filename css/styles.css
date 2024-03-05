@@ -1344,5 +1344,7 @@ margin-bottom: 24px;
 .modal-input {
     padding-left: 38px;
 }
-
+}
+.no-scroll {
+    overflow: hidden
 }
